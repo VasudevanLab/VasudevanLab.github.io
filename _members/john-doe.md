@@ -1,10 +1,14 @@
 ---
-name: John Doe
-image: images/photo.jpg
+name: Paola Sundaram Buitrago
+image: images/paola_ghibli.png
+description: MCB
 role: phd
 group: alum
 links:
-  github: john-doe
+  email: sarah.johnson@gmail.com
+  twitter: sarahjohnson
+  linkedin:
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

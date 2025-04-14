@@ -1,15 +1,15 @@
 ---
-name: Zeynep Kilinc
-image: images/zeynep_ghibli.png
-description: CCMB
-role: phd
+name: Ameen Baradar
+image: images/ameen_ghibli.png
+description: Research Associate
+role: postdoc
+group: alum
 links:
   email: sarah.johnson@gmail.com
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
-  github:
-  google-scholar:
+  twitter: sarahjohnson
   linkedin:
+
+  
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

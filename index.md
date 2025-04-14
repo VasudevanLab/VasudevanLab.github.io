@@ -49,7 +49,7 @@ here we will write 1-2 sentence leading the viewer to our projects page. This pa
 
 {%
   include feature.html
-  image="images/projects1.jpg"
+  image="images/project1.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Here we will write 1-2 sentence leading the viewer to our lab page hehe
 
 {%
   include feature.html
-  image="images/team1.jpg"
+  image="images/team1.png"
   link="team"
   title="Our Team"
   text=text
