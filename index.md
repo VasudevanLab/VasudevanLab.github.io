@@ -11,7 +11,7 @@ Our lab focuses on the role of post-transcriptional mechanisms in clinically res
 
 {% capture text %}
 
-Here we will write 1-2 sentence leading the viewer to our research/publications page
+"Never lose curiosity because curiosity is one of the great secrets of happiness."
 
 {%
   include button.html
