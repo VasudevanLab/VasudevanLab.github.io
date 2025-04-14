@@ -1,7 +1,7 @@
 ---
 name: Elijah Puente
 image: images/elijah_ghibli.png
-role: undergrad
+role: Undergraduate Researcher
 group: alum
 links:
   email: sarah.johnson@gmail.com

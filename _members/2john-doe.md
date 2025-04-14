@@ -1,7 +1,7 @@
 ---
 name: Paola Sundaram Buitrago
 image: images/paola_ghibli.png
-description: MCB
+description: PhD Student (MCB)
 role: phd
 group: alum
 links:

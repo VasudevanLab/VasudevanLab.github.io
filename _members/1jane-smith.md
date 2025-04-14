@@ -6,10 +6,10 @@ affiliation: Brown University
 aliases:
   
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
-  linkedin:
+  orcid: 0000-0001-5938-8335
+  linkedin: linkedin.com/in/svasudevan-cancer-rna-mechanisms
+  google-scholar: https://scholar.google.com/citations?user=prWSX04AAAAJ&hl=en&oi=ao
 
 ---
 
-Captain!
+This is the page for our Captain!
